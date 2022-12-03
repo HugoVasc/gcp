@@ -12,7 +12,7 @@ Para realizar a exportação dos dados de faturamento siga os passo a seguir:
 7. Selecione o id do projeto
 8. Crie um id para o conjunto de dados
 9. Selecione o local dos dados
-10. (Opcional) Ative uma expiração para os dados
+10. (Opcional) Ative uma expiração para os dados. A configuração do novo conjunto de dados deve se asssemelhar à imagem abaixo:
 ![imagem2](./imagens/conjunto_dados.png)
 11. Salve a exportação de faturamento
 

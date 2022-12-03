@@ -4,7 +4,7 @@ Repositório para entrega de projetos da formação de GCP da DIO
 
 ## Projetos
 
-1. [GCP Billing](./gcp_billing/)
+1. [GCP Billing](./billing/)
    Projeto de orçamento e gerneciamento de alertas do GCP
 2. [Exportação de billing](./billing_export/)
    Configuração para exportação dos dados de faturamento dos projetos do GCP
