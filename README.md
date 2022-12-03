@@ -12,4 +12,3 @@ Repositório para entrega de projetos da formação de GCP da DIO
    Configuração e personalização do dashboard do GCP
 4. [GCP Cloud Shell](./cloud_shell/)
    Executando comandos no GCP Cloud Shell
-
